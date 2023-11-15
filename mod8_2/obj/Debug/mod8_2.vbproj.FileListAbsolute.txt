@@ -1,0 +1,15 @@
+D:\KULIAH\SMT 7\Praktikum RPLBK\praktikum\mod8_2\mod8_2\bin\Debug\mod8_2.exe.config
+D:\KULIAH\SMT 7\Praktikum RPLBK\praktikum\mod8_2\mod8_2\bin\Debug\mod8_2.exe
+D:\KULIAH\SMT 7\Praktikum RPLBK\praktikum\mod8_2\mod8_2\bin\Debug\mod8_2.pdb
+D:\KULIAH\SMT 7\Praktikum RPLBK\praktikum\mod8_2\mod8_2\bin\Debug\mod8_2.xml
+D:\KULIAH\SMT 7\Praktikum RPLBK\praktikum\mod8_2\mod8_2\bin\Debug\TempConv.dll
+D:\KULIAH\SMT 7\Praktikum RPLBK\praktikum\mod8_2\mod8_2\bin\Debug\TempConv.pdb
+D:\KULIAH\SMT 7\Praktikum RPLBK\praktikum\mod8_2\mod8_2\obj\Debug\mod8_2.vbproj.AssemblyReference.cache
+D:\KULIAH\SMT 7\Praktikum RPLBK\praktikum\mod8_2\mod8_2\obj\Debug\mod8_2.Form1.resources
+D:\KULIAH\SMT 7\Praktikum RPLBK\praktikum\mod8_2\mod8_2\obj\Debug\mod8_2.Resources.resources
+D:\KULIAH\SMT 7\Praktikum RPLBK\praktikum\mod8_2\mod8_2\obj\Debug\mod8_2.vbproj.GenerateResource.cache
+D:\KULIAH\SMT 7\Praktikum RPLBK\praktikum\mod8_2\mod8_2\obj\Debug\mod8_2.vbproj.CoreCompileInputs.cache
+D:\KULIAH\SMT 7\Praktikum RPLBK\praktikum\mod8_2\mod8_2\obj\Debug\mod8_2.vbproj.CopyComplete
+D:\KULIAH\SMT 7\Praktikum RPLBK\praktikum\mod8_2\mod8_2\obj\Debug\mod8_2.exe
+D:\KULIAH\SMT 7\Praktikum RPLBK\praktikum\mod8_2\mod8_2\obj\Debug\mod8_2.xml
+D:\KULIAH\SMT 7\Praktikum RPLBK\praktikum\mod8_2\mod8_2\obj\Debug\mod8_2.pdb
